@@ -1,2 +1,5 @@
 <h3> Welcome to Beesearch </h3>
-  
+  <ui> Bee information </ui>
+    <li> Hive </li>
+    <li> Bees </li>
+    <li> Gear </li>
