@@ -4,12 +4,13 @@
   h1{text-align: center;} </style>
 </head>
 <body>
+  <l style="font-size: 32px">
   <ui> Bee information </ui>
     <li> Hive </li>
     <li> Bees </li>
     <li> Gear </li>
     <li> Questions </li>
-    div{size:32px;}
+    </l>
 </body>
 <body style="background-color: yellow"</body>
 
