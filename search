@@ -8,6 +8,8 @@
     <li> Hive </li>
     <li> Bees </li>
     <li> Gear </li>
+</body>
+<body style="background-color: yellow"</body>
   <style>
   div{
       background-color: yellow;
@@ -15,4 +17,3 @@
       height: 100%
       }
   </style>
-  </body>
