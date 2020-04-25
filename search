@@ -8,8 +8,8 @@
     <li> Hive </li>
     <li> Bees </li>
     <li> Gear </li>
-  <style>
-    {text-align: center;} </style>
+    <li> Questions </li>
+    div{size:32px;}
 </body>
 <body style="background-color: yellow"</body>
 
