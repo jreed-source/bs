@@ -1,6 +1,7 @@
 <head>
-<h1> Welcome to Beesearch
-  {text align: center}</h1>
+<h1> Welcome to Beesearch </h1>
+<style>
+  h1{text align: center} </style>
   <body>
   <ui> Bee information </ui>
     <li> Hive </li>
