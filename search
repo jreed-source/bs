@@ -11,7 +11,6 @@
     <li> Gear </li>
     <li> Questions </li>
     </l>
-</body>
 <body style="background-color: yellow"</body>
   <nav>
     <ul>
@@ -21,4 +20,5 @@
       <li><a href="Questions.html">Questions</a></li>
     </ul>
   </nav>
+  </body>
 
