@@ -6,7 +6,7 @@
 <body>
   <l style="font-size: 32px">
   <ui> Bee information </ui>
-    <li> Hives </li>
+    <li><a href="Hives.html">Hives</a></li>
     <li> Bees </li>
     <li> Gear </li>
     <li> Questions </li>
@@ -19,8 +19,6 @@
       <li><a href="Gear.html">Gear</a></li>
       <li><a href="Questions.html">Questions</a></li>
     </ul>
-    <style>
-  li{text-align: center;} </style>
   </nav>
   </body>
 
