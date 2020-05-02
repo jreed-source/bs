@@ -4,6 +4,7 @@
   h1{text-align: center;} </style>
 </head>
 <body>
+  <nav>
   <l style="font-size: 32px">
   <ui> Bee information </ui>
     <li><a href="Hives.html">Hives</a></li>
@@ -11,6 +12,7 @@
     <li> Gear </li>
     <li> Questions </li>
     </l>
+    </nav>
 <body style="background-color: yellow"</body>
   <nav>
     <ul>
