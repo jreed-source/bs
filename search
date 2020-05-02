@@ -4,23 +4,16 @@
   h1{text-align: center;} </style>
 </head>
 <body>
-  <nav>
-  <l style="font-size: 32px">
-  <ui> Bee information </ui>
-    <li><a href="Hives.html">Hives</a></li>
-    <li> Bees </li>
-    <li> Gear </li>
-    <li> Questions </li>
-    </l>
-    </nav>
 <body style="background-color: yellow"</body>
   <nav>
+  <l style="font-size: 32px">
     <ul>
       <li><a href="Hives.html">Hives</a></li>
       <li><a href="Bees.html">Bees</a></li>
       <li><a href="Gear.html">Gear</a></li>
       <li><a href="Questions.html">Questions</a></li>
     </ul>
+    </l>
   </nav>
   </body>
 
