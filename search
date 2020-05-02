@@ -19,6 +19,8 @@
       <li><a href="Gear.html">Gear</a></li>
       <li><a href="Questions.html">Questions</a></li>
     </ul>
+    <style>
+  li{text-align: center;} </style>
   </nav>
   </body>
 
