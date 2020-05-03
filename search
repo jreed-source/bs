@@ -8,10 +8,10 @@
   <nav>
   <l style="font-size: 32px">
     <ul>Information</ul>
-      <li><a href="Hives.html">Hives</a></li>
-      <li><a href="Bees.html">Bees</a></li>
-      <li><a href="Gear.html">Gear</a></li>
-      <li><a href="Questions.html">Questions</a></li>
+      <li><a href="#Hives">Hives</a></li>
+      <li><a href="#Bees">Bees</a></li>
+      <li><a href="#Gear">Gear</a></li>
+      <li><a href="#Questions">Questions</a></li>
     </l>
   </nav>
   <h2>Introduction</h2>
@@ -19,13 +19,13 @@
   <body> This page was made with the goal of being a central hub for beekeeping information. Here you can find information on all areas of
   beekeeping as well as links to other websites to purchase supplies. GOOD LUCK WITH YOUR HIVE!!!
   <style> body{text-align: center;} </style>
-  <h2>Hives</h2>
+  <h2 id="Hives">Hives</h2>
   <body>
-  <h2>Bees</h2>
+  <h2 id="Bees">Bees</h2>
   <body>
-  <h2>Gear</h2>
+  <h2 id="Gear">Gear</h2>
   <body>
-  <h2>Questions</h2>
+  <h2 id="Questions">Questions</h2>
   <body>
   </body>
 
