@@ -15,6 +15,8 @@
     </l>
   </nav>
   <h3>intro</h3>
+  <style> h3{text-align: center;} </style>
   <body> This page was made with the goal to 
+  <style> body{text-align: center;} </style>
   </body>
 
