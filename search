@@ -16,7 +16,7 @@
   </nav>
   <h2>Introduction</h2>
   <style> h3{text-align: center;} </style>
-  <body> This page was made with the goal of being a central hub for beekeeping information. Here you can find information on all areas of
+  <body> < font size="+2"> This page was made with the goal of being a central hub for beekeeping information. Here you can find information on all areas of
   beekeeping as well as links to other websites to purchase supplies. GOOD LUCK WITH YOUR HIVE!!!
   <style> body{text-align: center;} </style>
   <h2 id="Hives">Hives</h2>
@@ -44,6 +44,7 @@
       <li><a>Where can I buy supplies? Dadant&Sons, Mannlake, and BetterBee are places I like.</a></li>
       <li><a>When can I add another box to my hive? Usually I wait until at least 7 frames are filled.</a></li>
     </l>
+    </font>
   </nav>
  
   </body>
